@@ -1,9 +1,9 @@
 {
   "latestBlock": {
-    "number": 908276,
-    "timestamp": 1754152396
+    "number": 908286,
+    "timestamp": 1754156687
   },
-  "lessThan20min": 2,
+  "lessThan20min": 1,
   "lessThan1hour": 1,
   "lessThan6hours": 1,
   "lessThan24hours": 1
